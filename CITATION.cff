@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Network Game Pro"
+message: "If you use Network Game Pro in a project, please cite this repository."
+type: software
+authors:
+  - name: "Network Game Pro Contributors"
+version: "1.0.0"
+date-released: "2026-09-25"
+repository-code: "https://github.com/"
+license: "MIT"
